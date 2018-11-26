@@ -1,0 +1,7 @@
+D:\VSWORK\Bootstrap4\NEWS\bin\NEWS.dll.config
+D:\VSWORK\Bootstrap4\NEWS\bin\NEWS.dll
+D:\VSWORK\Bootstrap4\NEWS\bin\NEWS.pdb
+D:\VSWORK\Bootstrap4\NEWS\obj\Debug\NEWS.csprojAssemblyReference.cache
+D:\VSWORK\Bootstrap4\NEWS\obj\Debug\NEWS.csproj.CoreCompileInputs.cache
+D:\VSWORK\Bootstrap4\NEWS\obj\Debug\NEWS.dll
+D:\VSWORK\Bootstrap4\NEWS\obj\Debug\NEWS.pdb
